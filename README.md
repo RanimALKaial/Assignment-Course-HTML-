@@ -15,10 +15,10 @@ Assignment Elzero Web School
 
 ## 1️⃣ Elements And Comments
 #### [codes for lessons from [01] to [05]](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1)  
-[     • Assignment 1](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1/Assignment1)   
-[     • Assignment 2](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1/Assignment2) 
+[     • Assignment 1](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1/Assignment1)    
+[     • Assignment 2](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1/Assignment2)    
 [     • Assignment 3](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1/Assignment3)  
-[     • Assignment 4](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1/Assignment4)  
+[     • Assignment 4](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week1/Assignment4) 
 
 ## 2️⃣ Heading And Attributes
 #### [codes for lessons from [06] to [10]](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2)  
