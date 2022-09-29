@@ -25,9 +25,9 @@ Assignment Elzero Web School
 [     • Assignment 1](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment1)   
 [     • Assignment 2](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment2)  
 [     • Assignment 3](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment3)    
-[     • Assignment 4](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment4)  
-[     • Assignment 5](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment5)   
-[     • Assignment 6](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment6) 
+[     • Assignment 4](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment4)    
+[     • Assignment 5](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment5)    
+[     • Assignment 6](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment6)  
 [     • Assignment 7](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week2/Assignment7) 
 
 ## 3️⃣ Link, Image, List  
@@ -52,9 +52,9 @@ Assignment Elzero Web School
 
 ## 6️⃣ Form Part 1
 #### [codes for lessons from [24] to [27]](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week6/)  
-[     • Assignment 1](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week6/Assignment1) 
-[     • Assignment 2](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week6/Assignment2) 
-
+[     • Assignment 1](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week6/Assignment1)    
+[     • Assignment 2](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week6/Assignment2)    
+ 
 ## 7️⃣ Form Part 2
 #### [codes for lessons from [28] to [30]](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week7)  
 [     • Assignment 1](https://github.com/RanimALKaial/Assignment-Course-HTML-/tree/main/week7/Assignment1)    
